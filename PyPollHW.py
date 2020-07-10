@@ -49,3 +49,14 @@ for i in range(len(candidates)):
     print(f"{candidates[i]}: {str(percent_votes[i])} ({str(num_votes[i])})")
 print("--------------------------")
 print(f"Winner: {winning_candidate}")
+
+Election Results
+--------------------------
+Total Votes: 3521001
+--------------------------
+Khan: 63.000% (2218231)
+Correy: 20.000% (704200)
+Li: 14.000% (492940)
+O'Tooley: 3.000% (105630)
+--------------------------
+Winner: Khan
